@@ -130,7 +130,7 @@ function Dashboard() {
           <Col md="8">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Prediciton Grapgh Soomro Gafoor Bhai 22-- 3456789 </Card.Title>
+                <Card.Title as="h4">Prediciton Grapgh Soomro Gafoor Bhai 21-- 3456789 </Card.Title>
                 <p className="card-category">Time durantion for 2025</p>
               </Card.Header>
               <Card.Body>
