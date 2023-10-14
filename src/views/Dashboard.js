@@ -131,7 +131,7 @@ function Dashboard() {
             <Card>
               <Card.Header>
                 <Card.Title as="h4">Prediciton Grapgh Soomro Smart </Card.Title>
-                <p className="card-category">Time durantion for 2023</p>
+                <p className="card-category">Time durantion for 2025</p>
               </Card.Header>
               <Card.Body>
                 <div className="ct-chart" id="chartHours">
