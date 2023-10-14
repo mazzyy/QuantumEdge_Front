@@ -130,7 +130,7 @@ function Dashboard() {
           <Col md="8">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Prediciton Grapgh dummy data testing</Card.Title>
+                <Card.Title as="h4">Prediciton Grapgh </Card.Title>
                 <p className="card-category">Time durantion for 2023</p>
               </Card.Header>
               <Card.Body>
