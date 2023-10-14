@@ -84,7 +84,7 @@ const Upload = () => {
           <Col md="8">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Upload Data in CSV </Card.Title>
+                <Card.Title as="h4">Upload Data in CSV1 or XLXX Format </Card.Title>
               </Card.Header>
               <Card.Body>
                 <Form>

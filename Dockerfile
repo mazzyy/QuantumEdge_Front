@@ -23,8 +23,3 @@ EXPOSE 3000
 # CMD ["npx", "serve", "-s", "build"]
 CMD ["npm", "start"]
 
-# create docker run "-p 3000:3000 frontend:test1"
-
-
-
-

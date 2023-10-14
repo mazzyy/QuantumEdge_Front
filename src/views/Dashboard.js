@@ -130,12 +130,12 @@ function Dashboard() {
           <Col md="8">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Prediciton Grapgh </Card.Title>
+                <Card.Title as="h4">Prediciton Grapgh dummy data testing</Card.Title>
                 <p className="card-category">Time durantion for 2023</p>
               </Card.Header>
               <Card.Body>
                 <div className="ct-chart" id="chartHours">
-                  <ChartistGraph
+                  {/* <ChartistGraph
                     data={{
                       labels: [
                         "January",
@@ -186,7 +186,7 @@ function Dashboard() {
                         },
                       ],
                     ]}
-                  />
+                  /> */}
                 </div>
               </Card.Body>
               <Card.Footer>
