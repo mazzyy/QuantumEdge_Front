@@ -110,7 +110,7 @@ function Dashboard() {
                   </Col>
                   <Col xs="7">
                     <div className="numbers">
-                      <p className="card-category">Accuracy</p>
+                      <p className="card-category">Accuracyy</p>
                       <Card.Title as="h4">87%</Card.Title>
                     </div>
                   </Col>
