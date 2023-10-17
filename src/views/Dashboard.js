@@ -32,7 +32,7 @@ function Dashboard() {
                   </Col>
                   <Col xs="7">
                     <div className="numbers">
-                      <p className="card-category">Number Of Rows</p>
+                      <p className="card-category">Number Of Rows 123</p>
                       <Card.Title as="h4">40000</Card.Title>
                     </div>
                   </Col>
