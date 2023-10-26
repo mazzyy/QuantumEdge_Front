@@ -32,7 +32,7 @@ function Dashboard() {
                   </Col>
                   <Col xs="7">
                     <div className="numbers">
-                      <p className="card-category">Number Of Rows</p>
+                      <p className="card-category">Number Of Rows 123</p>
                       <Card.Title as="h4">40000</Card.Title>
                     </div>
                   </Col>
@@ -110,7 +110,7 @@ function Dashboard() {
                   </Col>
                   <Col xs="7">
                     <div className="numbers">
-                      <p className="card-category">Accuracy</p>
+                      <p className="card-category">Accuracyy</p>
                       <Card.Title as="h4">87%</Card.Title>
                     </div>
                   </Col>
@@ -130,7 +130,7 @@ function Dashboard() {
           <Col md="8">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Prediciton Grapgh Soomro Smart 3456789 </Card.Title>
+                <Card.Title as="h4">Prediciton Grapgh Soomro Gafoor Bhai 21-- 3456789 </Card.Title>
                 <p className="card-category">Time durantion for 2025</p>
               </Card.Header>
               <Card.Body>
